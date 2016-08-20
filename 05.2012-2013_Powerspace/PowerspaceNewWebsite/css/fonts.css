@@ -1,0 +1,234 @@
+
+@font-face {
+    font-family: 'Condensed';
+    src: url('../fonts/universltstd-cn-webfont.eot');
+    src: url('../fonts/universltstd-cn-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/universltstd-cn-webfont.woff') format('woff'),
+         url('../fonts/universltstd-cn-webfont.ttf') format('truetype'),
+         url('../fonts/universltstd-cn-webfont.svg#UniversLTStd57CnRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'CondensedBold';
+    src: url('../fonts/universltstd-boldcn-webfont.eot');
+    src: url('../fonts/universltstd-boldcn-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/universltstd-boldcn-webfont.woff') format('woff'),
+         url('../fonts/universltstd-boldcn-webfont.ttf') format('truetype'),
+         url('../fonts/universltstd-boldcn-webfont.svg#UniversLTStd57CnRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'CondensedLight';
+    src: url('../fonts/universltstd-lightcn-webfont.eot');
+    src: url('../fonts/universltstd-lightcn-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/universltstd-lightcn-webfont.woff') format('woff'),
+         url('../fonts/universltstd-lightcn-webfont.ttf') format('truetype'),
+         url('../fonts/universltstd-lightcn-webfont.svg#UniversLTStd47CnLtRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+#nav a,
+.header-deco span,
+#five h2,
+form label,
+.pwspace-info p,
+#navfooter a,
+#footer,
+.submit-block p{
+    font-family:'Condensed', Arial, sans-serif;
+}
+
+.technologies h3,
+.fullservice h3,
+.button,
+#three h4,
+.block-lead strong,
+#five h3,
+#eight h2,
+.founder-info h3,
+.address h3,
+#nine h2,
+#ten h2,
+.pwspace-info p strong{
+    font-family:'CondensedBold', Arial, sans-serif;
+}
+.fullservice p,
+#two p,
+#three h3,
+.block-lead p,
+.industries-title,
+#six p,
+.block-history-right,
+.founder-info p{
+    font-family:'CondensedLight', Arial, sans-serif;
+}
+#nav .submenu ol li a,
+.address p,
+input.button,
+input,
+textarea,
+label.error{
+    font-family: Arial, sans-serif;
+}
+body{
+    font-family: Georgia, serif;
+}
+.submit-block p,
+label.error{
+    font-size:12px;
+    line-height:14px;
+}
+.pwspace-info p{
+    font-size:21px;
+    line-height: 24px;
+}
+h3,
+.button,
+.header-deco span,
+.block-history-left{
+	font-size:22px;
+}
+form input,
+form textarea{
+    font-size: 14px;
+}
+#three h4,
+.address h3{
+    font-size:24px;
+    line-height: 26px;
+}
+.fullservice li,
+#two p,
+.block-lead,
+.industries-title,
+.block-history-right{
+	font-size:18px;
+	line-height:20px;
+}
+.founder-info p,
+.address p,
+form label,
+#talkbubble p{
+    font-size:16px;
+    line-height: 20px;
+}
+#nav {font-size:18px;}
+.menufooter{font-size:15px;}
+.block-history-left{
+    line-height: 30px;
+    font-style: italic;
+}
+.block-history-right{
+    line-height: 25px;
+}
+#six p,
+.founder-info h3{
+    font-size:26px;
+    line-height: 28px;
+}
+#five h2{
+    font-size:30px;
+    text-transform: uppercase;
+}
+.technologies h3{
+	font-size:32px;
+	line-height: 34px;
+}
+#one h2,
+#two h2,
+#eight h2,
+#nine h2,
+#ten h2{
+    font-size:42px;
+    line-height: 50px;
+}
+#three h3{
+    font-size:40px;
+}
+#two h2 span,
+#four h2,
+#five h3{
+    font-size:70px;
+}
+
+#three h2{
+    font-size:166px;
+}
+#six h2{
+    font-size:105px;
+}
+#seven h2{
+    font-size:100px;
+}
+h2{font-weight:normal;}
+
+/*COLORS*/
+
+#two h2,
+#three h2,
+#six h2,
+.block-history-left p{
+    color:#333;
+}
+.address p{
+    color:#666666;
+}
+#three h2 span,
+.block-lead strong span{
+    color:#1db8ef;
+}
+#four h2{
+    color:#D51415;
+}
+
+#seven h2,
+.block-history-right{
+    color:#80694f;
+}
+#nine h2,
+#ten h2{
+    color:#5c5c5c;
+}
+
+#eight h2{color:#ffe400;}
+.address h3,
+label.error{
+    color:#BD2612;
+}
+#nav a,
+.menufooter li a{
+  color:#bfbfbf;
+}
+.technologies h3,
+#industries .industries-ico,
+.button,
+.header-deco span,
+#five h2,
+#five h3,
+.founder-info,
+#talkbubble p,
+#talkbubble a,
+.pwspace-info h2,
+.pwspace-info p,
+.menufooter a,
+#footer,
+#nav a:hover{
+    color:#FFFFFF;
+}
+
+
+form label,
+form input,
+form textarea,
+.submit-block p{
+    color: #9EA0A3;
+}
+form label{
+    line-height: 43px;
+}
